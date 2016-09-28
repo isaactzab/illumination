@@ -3,6 +3,8 @@
 
 ## The idea / La idea
 ![English][lang-en]
+
+
 Laravel is a great framework, but some people (included me) ask if someday it will be more fast.
 
 ## How to reach it
@@ -14,6 +16,8 @@ This is a lot of work and i will need some of help. Please feel free to join to 
 I will work on it in my free times, so be patiently.
 
 ![Español][lang-es]
+
+
 Laravel es un gran framework, pero mucha gente se pregunta (incluyendome) si en algun momento podria ser mas rapido.
 
 ## Como alcanzar la idea
@@ -32,5 +36,5 @@ Tambien toma en cuenta que voy a trabajar en esto en mis ratos libres, asi que s
 
 
 
-[lang-us] https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "English"
-[lang-es] https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/es.png "Español"
+[lang-en]: https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "English"
+[lang-es]: https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/es.png "Español"
