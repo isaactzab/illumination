@@ -12,6 +12,7 @@
 *.gch
 *.ghc
 *.phc
+*.swp
 /.libs
 /ext/.libs
 
@@ -47,7 +48,6 @@ unit-tests/engines/*
 
 composer.lock
 composer.phar
-
 .vagrant
 Vagrantfile
 
