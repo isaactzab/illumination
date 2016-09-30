@@ -1,0 +1,5 @@
+
+extern zend_class_entry *illumination_components_file_exception_fileexception_ce;
+
+ZEPHIR_INIT_CLASS(Illumination_Components_File_Exception_FileException);
+
