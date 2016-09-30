@@ -1,6 +1,7 @@
 # Zephir installation / Instalacion de Zephir - Debian Jessie
 
-
+#### Use under your own risk. Consider that this document stills under development.
+#### Usalo bajo tu riesgo. Este documento todavia esta en desarrollo.
 ```
 git clone https://github.com/phalcon/zephir.git
 git clone https://github.com/json-c/json-c.git
